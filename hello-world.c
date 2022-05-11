@@ -2,5 +2,5 @@
 
 void main(){
     //oque voçê kisér
-    printf("Ednaldo Pereira\n");
+    printf("Ednaldo Pereira whate is the brother\n");
 }
